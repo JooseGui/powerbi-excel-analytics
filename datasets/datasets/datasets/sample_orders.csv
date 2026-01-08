@@ -1,0 +1,13 @@
+order_id,created_date,status,lead_time_days,backlog_flag,incident_flag,incident_severity,region,channel
+ORD-1001,2026-01-02,delivered,5,0,0,,North,B2B
+ORD-1002,2026-01-03,in_transit,,0,1,medium,Central,B2C
+ORD-1003,2026-01-03,in_preparation,,0,0,,South,B2B
+ORD-1004,2026-01-04,delivered,9,1,1,high,North,B2C
+ORD-1005,2026-01-04,cancelled,,0,0,,Central,B2B
+ORD-1006,2026-01-05,delivered,3,0,0,,South,B2C
+ORD-1007,2026-01-05,delivered,8,1,0,,North,B2B
+ORD-1008,2026-01-06,in_transit,,0,0,,Central,B2C
+ORD-1009,2026-01-06,delivered,6,0,1,low,South,B2B
+ORD-1010,2026-01-07,in_preparation,,0,0,,North,B2C
+ORD-1011,2026-01-07,delivered,12,1,1,high,Central,B2B
+ORD-1012,2026-01-08,delivered,4,0,0,,South,B2C
